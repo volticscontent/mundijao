@@ -45,6 +45,12 @@ export const Route = createRootRoute({
       { property: "og:type", content: "website" },
       { name: "twitter:card", content: "summary" },
       { name: "twitter:site", content: "@Lovable" },
+      { name: "twitter:title", content: "How to Go Viral on TikTok" },
+      { name: "description", content: "Your Website Maker creates professional websites from your files, including landing pages and privacy policies." },
+      { property: "og:description", content: "Your Website Maker creates professional websites from your files, including landing pages and privacy policies." },
+      { name: "twitter:description", content: "Your Website Maker creates professional websites from your files, including landing pages and privacy policies." },
+      { property: "og:image", content: "https://pub-bb2e103a32db4e198524a2e9ed8f35b4.r2.dev/449a5325-0f97-4908-ad48-5ce617ee3bd7/id-preview-1d571475--1e74e80d-82e8-40e9-a194-c36a7d37ab6a.lovable.app-1776795735334.png" },
+      { name: "twitter:image", content: "https://pub-bb2e103a32db4e198524a2e9ed8f35b4.r2.dev/449a5325-0f97-4908-ad48-5ce617ee3bd7/id-preview-1d571475--1e74e80d-82e8-40e9-a194-c36a7d37ab6a.lovable.app-1776795735334.png" },
     ],
     links: [
       {
