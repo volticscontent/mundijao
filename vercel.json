@@ -1,5 +1,5 @@
 {
-  "buildCommand": "NITRO_PRESET=vercel npx vinxi build",
-  "outputDirectory": ".output",
+  "buildCommand": "npm run build",
+  "outputDirectory": "dist/client",
   "framework": null
 }
